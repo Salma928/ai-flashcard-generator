@@ -1,4 +1,4 @@
-# 🧠 AI Flashcard Generator
+#  AI Flashcard Generator
 
 An AI-powered flashcard generator built with Streamlit and LLaMA 3 (via Groq API).
 
