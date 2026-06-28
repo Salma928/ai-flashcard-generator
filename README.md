@@ -19,3 +19,7 @@ An AI-powered flashcard generator built with Streamlit and LLaMA 3 (via Groq API
 3. Install dependencies: `pip install streamlit groq pypdf2`
 4. Run: `streamlit run app.py`
 5. Get a free Groq API key at https://console.groq.com
+
+## Screenshots
+
+![App Screenshot](screenshots/screenshot1.png)
